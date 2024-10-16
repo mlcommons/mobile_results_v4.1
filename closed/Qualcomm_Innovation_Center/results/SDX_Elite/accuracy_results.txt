@@ -1,0 +1,12 @@
+#######image_classification_v2###### 
+2024-09-18 23:37:38.817177: I flutter/cpp/binary/main.cc:420] Accuracy: 81.94%
+#######object_detection###### 
+2024-09-18 23:39:17.151450: I flutter/cpp/binary/main.cc:420] Accuracy: 0.2743 mAP
+#######image_segmentation_v2###### 
+2024-09-18 23:40:52.477925: I flutter/cpp/binary/main.cc:420] Accuracy: 0.5841 mIoU
+#######natural_language_processing###### 
+2024-09-19 00:01:59.294309: I flutter/cpp/binary/main.cc:420] Accuracy: 88.1543
+#######super_resolution###### 
+2024-09-19 00:02:08.177822: I flutter/cpp/binary/main.cc:420] Accuracy: 33.39 dB
+#######image_classification_offline_v2###### 
+2024-09-19 00:08:36.145789: I flutter/cpp/binary/main.cc:420] Accuracy: 81.94%
